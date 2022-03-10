@@ -1,1 +1,1 @@
-deployed contract's address: 0xc0e077F034F983777917b0819003fF501Ba07Ba4
+https://rinkeby.etherscan.io/address/0xc0e077F034F983777917b0819003fF501Ba07Ba4
